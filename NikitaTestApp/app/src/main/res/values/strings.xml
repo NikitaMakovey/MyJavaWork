@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nikita Test App</string>
+    <string name="button">Привет</string>
+    <string name="Num1">Первое число</string>
+    <string name="Num2">Второе число</string>
+    <string name="TextView">Результат</string>
+    <string name="But">Суммировать</string>
+</resources>

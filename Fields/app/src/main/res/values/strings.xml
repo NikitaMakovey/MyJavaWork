@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fields</string>
+    <string name="ttree">Показать</string>
+    <string name="retergf">Показать</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="act_change">Перейти на вторую страницу</string>
+</resources>
